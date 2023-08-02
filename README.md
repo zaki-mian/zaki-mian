@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm zaki-mian</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Zaki</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Pakistan.</h3>
 
 <p align="left"> <a href="https://twitter.com/zakimian3015" target="blank"><img src="https://img.shields.io/twitter/follow/zakimian3015?logo=twitter&style=for-the-badge" alt="zakimian3015" /></a> </p>
